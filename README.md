@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imdsc
 - 👀 I’m interested in Server end develop
-- 🌱 I’m currently learning Microservice
+- 🌱 I’m currently learning Microservice and Decentralized App Develope
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
